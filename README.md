@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Corel-Cormen/Corel-Cormen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://simpleicons.org/icons/cplusplus.svg" width="100" height="100"> </a>
+<img src="https://simpleicons.org/icons/c.svg" width="100" height="100"> </a>
+<img src="https://simpleicons.org/icons/cplusplus.svg" width="100" height="100"> </a>
+<img src="https://simpleicons.org/icons/cplusplus.svg" width="100" height="100"> </a>
+<img src="https://simpleicons.org/icons/cplusplus.svg" width="100" height="100"> </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <th>Technologia</th>
+    <th>Opinia</th>
+  </tr>
+  <tr>
+    <td><center><img src="https://pl.wikipedia.org/wiki/Plik:ISO_C%2B%2B_Logo.svg" width="50" height="50"></center></td>
+    <td>Mój główny język programowania</td>
+  </tr>
+</table>

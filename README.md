@@ -12,7 +12,7 @@
     <th>Opinia</th>
   </tr>
   <tr>
-    <td><center><img src="https://pl.wikipedia.org/wiki/Plik:ISO_C%2B%2B_Logo.svg" width="50" height="50"></center></td>
+    <td><center><img src="C++_Logo.svg" width="50" height="50"></center></td>
     <td>Mój główny język programowania</td>
   </tr>
 </table>
